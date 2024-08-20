@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "ng": "ng",
-    "start": "ng s",
+    "start": "ng serve --port=443 --o",
     "build": "ng build",
     "build-dev": "ng build --baseHref=https://dev-fe.trisakti.ac.id/ --configuration=development --output-path=dist/Dev-SituFramework",
     "build-prod": "ng build --baseHref=https://admisi.trisakti.ac.id/admission/ --configuration=production --output-path=dist/Prod-SituFramework",
