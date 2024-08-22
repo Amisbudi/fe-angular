@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://dev-gateway.trisakti.ac.id',
+  apiUrl: 'https://be-trisakti.amisbudi.cloud',
   appCode: 206
 };
